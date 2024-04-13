@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmVtZXMzYmwwOTJwd2tsNHBtdXRsZnNqbTgxZnNnbWhwNTE5aDlxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.gif"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/DmitriyP_22">
