@@ -1,7 +1,12 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmVtZXMzYmwwOTJwd2tsNHBtdXRsZnNqbTgxZnNnbWhwNTE5aDlxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.gif width="150""/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center>
+  <a href="https://t.me/DmitriyP_22">
+  <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+  </a>
 </div>
 <!--
 **DmitriyP31/DmitriyP31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
