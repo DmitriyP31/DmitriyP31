@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmVtZXMzYmwwOTJwd2tsNHBtdXRsZnNqbTgxZnNnbWhwNTE5aDlxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.gif width="100""/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmVtZXMzYmwwOTJwd2tsNHBtdXRsZnNqbTgxZnNnbWhwNTE5aDlxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.gif width="150""/>
 </div>
 <!--
 **DmitriyP31/DmitriyP31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
