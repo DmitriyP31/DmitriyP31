@@ -11,11 +11,15 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?DmitriyP31&style=flat-square&color=blue" alt=""/>
+
 <h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTIxamhhOWwzODBnZWhucmdqcDF1MXV5Y2t5OTZ6bjB5Z3d1ZDI3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="600" height="300"/>
+</div>
+### :man_technologist: About Me :
 <!--
 **DmitriyP31/DmitriyP31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
