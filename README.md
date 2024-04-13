@@ -1,10 +1,13 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmVtZXMzYmwwOTJwd2tsNHBtdXRsZnNqbTgxZnNnbWhwNTE5aDlxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.gif"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnE2MjMzZHhlanRxNmg0eG8xajB3eXBkb2R4YXJmMGoxMDdmc3V3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif" width="150"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/DmitriyP_22">
   <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 <h1 align="center">
